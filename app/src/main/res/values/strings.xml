@@ -1,0 +1,55 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MyStoryApp</string>
+    <string name="home" translatable="false">Home</string>
+    <string name="location" translatable="false">Location</string>
+    <string name="setting" translatable="false">Setting</string>
+    <string name="stories" translatable="false">Stories</string>
+    <string name="name" translatable="false">Erni Septiani</string>
+    <string name="story_illustration" translatable="false">Stories Illustration</string>
+    <string name="description" translatable="false">blablablabla</string>
+    <string name="date" translatable="false">Mei 18, 2021</string>
+    <string name="create_story" translatable="false">Create Story</string>
+    <string name="no_data" translatable="false">No Data</string>
+    <string name="stories_not_found" translatable="false">Stories not found</string>
+    <string name="logout" translatable="false">Logout</string>
+    <string name="retry" translatable="false">Retry</string>
+    <string name="loading_error_message" translatable="false">Unable to fetch stories data</string>
+    <string name="add_story" translatable="false">Add Story</string>
+    <string name="person_illustration" translatable="false">Person Illustration</string>
+    <string name="select_image" translatable="false">Select Image From</string>
+    <string name="camera" translatable="false">Camera</string>
+    <string name="gallery" translatable="false">Gallery</string>
+    <string name="write_description" translatable="false">Write Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="not_valid_email" translatable="false">Email Address is not Valid</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="password_requirement" translatable="false">Passwords must be at least 8 characters</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="new_to_story" translatable="false">New to Story?</string>
+    <string name="register" translatable="false">Register</string>
+    <string name="lets_sign" translatable="false">Hello, let\'s sign in</string>
+    <string name="login_message" translatable="false">Explore all of student\'s experience and story when learning in Dicoding, and of course you can also share your story too✍️</string>
+    <string name="person_with_computer" translatable="false">Person with computer</string>
+    <string name="create_account" translatable="false">Let\'s create an account</string>
+    <string name="register_message" translatable="false">New to this application? \nLet\'s create an account for you ✨</string>
+    <string name="full_name" translatable="false">Full name</string>
+    <string name="already_have_an_account" translatable="false">Already have an account?</string>
+    <string name="login_success" translatable="false">Login Success</string>
+    <string name="login_error" translatable="false">Login failed, please try again!</string>
+    <string name="registration_success" translatable="false">Registration Success</string>
+    <string name="registration_error" translatable="false">Registration failed, please try again!</string>
+    <string name="blabla" translatable="false">Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem</string>
+    <string name="detail_toolbar" translatable="false">%s\'s story</string>
+    <string name="are_you_sure" translatable="false">Are you sure?</string>
+    <string name="logout_message" translatable="false">You need to login again after logout</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="logout_success" translatable="false">Logged out successfully</string>
+    <string name="upload_story" translatable="false">Upload Story</string>
+    <string name="story_uploaded"  translatable="false">Story Uploaded</string>
+    <string name="image_upload_failed" translatable="false">Image Upload Failed</string>
+    <string name="empty_field_error" translatable="false">Please fill the description field</string>
+    <string name="empty_image_error" translatable="false">Please select an image</string>
+
+</resources>
